@@ -1,0 +1,10 @@
+CE	Cholesterol esters
+Cer	Ceramides
+DAG	Diacylglycerols
+LPC	Lysophosphatidylcholines
+LPE	Lysophosphatidylethanolamines
+PC	Phosphatidylcholines
+PE	Phosphatidylethanolamines
+PS	Phosphatidylserines
+SM	Sphingomyelins
+TAG	Triacylglycerols
